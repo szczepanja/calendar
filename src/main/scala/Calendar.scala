@@ -12,3 +12,7 @@ class Calendar {
   def removeMeeting(closeMeeting: Meeting) = meetings -= closeMeeting
 
 }
+
+object Calendar extends App {
+  val calendar = new Calendar
+}

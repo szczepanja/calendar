@@ -2,8 +2,6 @@ import org.scalatest._
 import flatspec._
 import matchers._
 
-import scala.collection.mutable.ArrayBuffer
-
 class CalendarSpec extends AnyFlatSpec with should.Matchers {
 
   val calendar = new Calendar
