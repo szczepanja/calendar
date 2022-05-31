@@ -1,0 +1,1 @@
+case class Day(name: String, hour: Int, minute: Int)

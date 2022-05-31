@@ -1,0 +1,1 @@
+case class Meeting(title: String, start: Time, end: Time)

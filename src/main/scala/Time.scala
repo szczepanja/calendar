@@ -1,0 +1,1 @@
+case class Time(hour: Int, minute: Int)
